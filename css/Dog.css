@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(http://vignette3.wikia.nocookie.net/undertale/images/a/a6/Dance_till_you%27re_dead.gif/revision/latest?cb=20170115123037&path-prefix=pl) no-repeat center center fixed; 
+  background-size: ;
+}
+h1{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3em;
+  margin: .2em .5em;
+  color: rgba(0,0,0, 0.3);
+}
+body {
+    height: 100%;
+}
